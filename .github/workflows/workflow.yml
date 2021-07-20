@@ -26,4 +26,4 @@ jobs:
         with:
           branch: gh-pages # The branch the action should deploy to.
           folder: word-combo-angular/dist/word-combo-angular # The folder the action should deploy.
-{"mode":"full","isActive":false}
+
