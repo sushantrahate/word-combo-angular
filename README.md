@@ -19,6 +19,8 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 - Spread the word
 - Reach out with any feedback sushantrahate15@gmail.com
 
+Show your support by :star: the repo
+
 ## License
 
 MIT
