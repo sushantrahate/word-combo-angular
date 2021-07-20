@@ -1,0 +1,12 @@
+<mat-toolbar color="primary">
+  {{SiteTitle}}
+
+  <span class="spacer"></span>
+
+  <button mat-flat-button color="primary" routerLink="" routerLinkActive="active">Dashboard</button>
+  <button mat-flat-button color="primary" routerLink="about" routerLinkActive="active">About</button>
+</mat-toolbar>
+
+<main>
+  <router-outlet></router-outlet>
+</main>
